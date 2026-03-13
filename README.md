@@ -1,16 +1,23 @@
-## Hi there 👋
+# Joshua Bark
 
-<!--
-**Lethitical/Lethitical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics with Statistics @ Imperial College London  
+Predicted First Class | 2025–2028
 
-Here are some ideas to get you started:
+## About
+First year maths student interested in quantitative finance, 
+software engineering and fintech. Currently building AccentAI, 
+an iOS accent training app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Black-Scholes Options Pricing** — Live Tesla implied 
+  volatility smile using BSM model
+- **Portfolio Optimisation** — Efficient frontier across 
+  50+ S&P 500 constituents
+- **AccentAI** — iOS accent training app (In Development)
+
+## Skills
+Python · NumPy · pandas · JavaScript · React Native · SQL
+
+## Contact
+joshuabarkwork@gmail.com  
+linkedin.com/in/Joshuabark07
