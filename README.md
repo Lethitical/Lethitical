@@ -3,15 +3,15 @@
 *Predicted First*
 
 ## About
-First year maths student interested in quantitative finance, software engineering and fintech. Currently building AccentAI, an iOS accent training app.
+First year maths student interested in quantitative finance, software engineering and fintech. Currently building Accentio, an iOS accent training app.
 
 ## Projects
 - **[Black-Scholes Options Pricing](https://github.com/Lethitical/Black-scholes-options-pricing)** — Live Tesla implied volatility smile using BSM model
 - **[Portfolio Optimisation](https://github.com/Lethitical/Quantitative-portfolio-optimisation)** — Efficient frontier across 50+ S&P 500 constituents
-- **AccentAI** — iOS accent training app *(In Development)*
+- **Accentio** — iOS accent training app *(In Development)*
 
 ## Currently
-- Building AccentAI (Expo Router + React Native + TypeScript)
+- Building Accentio (Expo Router + React Native + TypeScript)
 - Prepping for SWE/quant internship applications (LeetCode + Greenbook)
 - Exploring stochastic calculus and time series for quant work
 
