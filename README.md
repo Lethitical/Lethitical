@@ -16,7 +16,7 @@ First year maths student interested in quantitative finance, software engineerin
 - Exploring stochastic calculus and time series for quant work
 
 ## Skills
-Python · NumPy · pandas · SciPy · TypeScript · React Native · Expo · Git
+Python · NumPy · pandas · JavaScript · React Native · Expo · Git
 
 ## Contact
 joshuabarkwork@gmail.com  
