@@ -3,8 +3,7 @@
 *Predicted First*
 
 ## About
-First year maths student interested in quantitative finance, software engineering and fintech. Currently building Accentio, an iOS accent training app.
-
+Second Year Maths Student at Imperial College London, with an interest in Quantitative Finance
 ## Projects
 - **[Black-Scholes Options Pricing](https://github.com/Lethitical/Black-scholes-options-pricing)** — Live Tesla implied volatility smile using BSM model
 - **[Portfolio Optimisation](https://github.com/Lethitical/Quantitative-portfolio-optimisation)** — Efficient frontier across 50+ S&P 500 constituents
